@@ -1,0 +1,30 @@
+export const FIRST = "first"
+export const SECOND = "second"
+export const THIRD = "third"
+export const FOURTH = "fourth"
+export const AED = "AED"
+export const SELECT_YOUR_CAR = "Select Your Car"
+export const CAR = "1. Car"
+export const EXTERIOR = "2. Exterior"
+export const INTERIOR = "3. Interior"
+export const AUTOPILOT = "4. Autopilot"
+export const INCLUDED = "Included"
+export const TYPE_EXTERIOR = "EXTERIOR"
+export const TYPE_INTERIOR = "INTERIOR"
+
+export const THREE_DOT_FIVE_SEC = "3.5s"
+export const ZERO_TO_SIXTY_MPH = "0-60 mph"
+export const ONE_FIFTY_MPH = "150 mph"
+export const TOP_SPEED = "Top speed"
+export const DESCRIPTION = "Tesla All-Wheel Drive has two independent motors. Unlike traditional all-wheel drive systems, these two motors digitally control torque to the front and rear wheels—for far better handling and traction control."
+
+export const PERFORMANCE_WHEELS = '20" Performance Wheels'
+export const CARBON_FIBER = "Carbon fiber spoiler"
+export const SELECT_COLOR = "Select Color"
+
+export const SELECT_INTERIOR = "Select Interior"
+export const SELECT_AUTOPILOT = "Autopilot"
+export const AUTOPILOT_DESC = "Automatic driving from highway on-ramp to off-ramp including interchanges and overtaking slower cars."
+
+export const SUMMARY = "Summary"
+export const PAY = "Pay"
